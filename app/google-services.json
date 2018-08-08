@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "694696879643",
+    "firebase_url": "https://trysafeblog.firebaseio.com",
+    "project_id": "trysafeblog",
+    "storage_bucket": "trysafeblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694696879643:android:ca92c815b59ed56c",
+        "android_client_info": {
+          "package_name": "com.example.rudrakaniya.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694696879643-5ef9fjbah6nlrj88amq25t1u6je5lg6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rudrakaniya.myapplication",
+            "certificate_hash": "b74a089416872ff7870ac3e3facc5d680d37b1ff"
+          }
+        },
+        {
+          "client_id": "694696879643-3oh4qoto70220lnd26j7h8vnlslio6ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7LTdXYDd0C1gW81_o5GKw4OJ-hhO6SKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694696879643-3oh4qoto70220lnd26j7h8vnlslio6ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694696879643:android:270f6765a53476b3",
+        "android_client_info": {
+          "package_name": "in.anew.trysafeblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694696879643-7ecqr90aib39oqoif8urj04e8lls01jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.anew.trysafeblog",
+            "certificate_hash": "055011d8784e836fc0bb83d81d95bc7d257a939e"
+          }
+        },
+        {
+          "client_id": "694696879643-c0qcvh9opjt0l2jkdnm5iqq2i9to3m7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.anew.trysafeblog",
+            "certificate_hash": "b74a089416872ff7870ac3e3facc5d680d37b1ff"
+          }
+        },
+        {
+          "client_id": "694696879643-3oh4qoto70220lnd26j7h8vnlslio6ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7LTdXYDd0C1gW81_o5GKw4OJ-hhO6SKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694696879643-3oh4qoto70220lnd26j7h8vnlslio6ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
